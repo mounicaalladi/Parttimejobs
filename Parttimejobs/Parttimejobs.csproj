@@ -67,6 +67,123 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\leaflet\images\layers-2x.png" />
+    <Content Include="assets\leaflet\images\layers.png" />
+    <Content Include="assets\leaflet\images\loader.gif" />
+    <Content Include="assets\leaflet\images\marker-icon.png" />
+    <Content Include="assets\leaflet\images\search-icon.png" />
+    <Content Include="assets\leaflet\leaflet-search.min.css" />
+    <Content Include="assets\leaflet\leaflet-search.min.js" />
+    <Content Include="assets\leaflet\leaflet.css" />
+    <Content Include="assets\leaflet\leaflet.js" />
+    <Content Include="assets\leaflet\leaflet.markercluster.js" />
+    <Content Include="css\admin-custom.css" />
+    <Content Include="css\animate.min.css" />
+    <Content Include="css\bootstrap-toggle.min.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\colors\dark-blue.css" />
+    <Content Include="css\colors\defualt.css" />
+    <Content Include="css\colors\green.css" />
+    <Content Include="css\colors\orange.css" />
+    <Content Include="css\colors\red.css" />
+    <Content Include="css\colors\yellow.css" />
+    <Content Include="css\custom.css" />
+    <Content Include="css\dropzone.css" />
+    <Content Include="css\et-line-fonts.css" />
+    <Content Include="css\img\loading-sm.html" />
+    <Content Include="css\img\loading.html" />
+    <Content Include="css\jquery-confirm.min.css" />
+    <Content Include="css\jquery-te.css" />
+    <Content Include="css\jquery-te.png" />
+    <Content Include="css\jquery.fancybox.min.css" />
+    <Content Include="css\jquery.tag-editor.css" />
+    <Content Include="css\line-awesome.min.css" />
+    <Content Include="css\mega_menu.min.css" />
+    <Content Include="css\minimal\minimal%402x.png" />
+    <Content Include="css\minimal\minimal.css" />
+    <Content Include="css\minimal\minimal.png" />
+    <Content Include="css\new\checkbox-square.css" />
+    <Content Include="css\new\datepicker.min.css" />
+    <Content Include="css\new\fileinput.min.css" />
+    <Content Include="css\new\images\bx_loader.gif" />
+    <Content Include="css\new\images\controls.png" />
+    <Content Include="css\new\jquery.bxslider.css" />
+    <Content Include="css\new\jquery.tipsy.css" />
+    <Content Include="css\new\square%402x.png" />
+    <Content Include="css\new\square1.png" />
+    <Content Include="css\new\themify-icons.css" />
+    <Content Include="css\owl.carousel.css" />
+    <Content Include="css\owl.theme.default.css" />
+    <Content Include="css\owl.video.play.html" />
+    <Content Include="css\select2.min.css" />
+    <Content Include="css\theme.css" />
+    <Content Include="css\toastr.min.css" />
+    <Content Include="css\woocommerce.css" />
+    <Content Include="fonts\et-line.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\line-awesomeeb4f.svg" />
+    <Content Include="fonts\themify.svg" />
+    <Content Include="images\2.html" />
+    <Content Include="images\bg.html" />
+    <Content Include="images\bg\4.html" />
+    <Content Include="images\blog-big-elements.html" />
+    <Content Include="images\calltoaction-two-bg.html" />
+    <Content Include="images\candidate-dp.jpg" />
+    <Content Include="images\city.png" />
+    <Content Include="images\collage.html" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\footer.png" />
+    <Content Include="images\g-logo.png" />
+    <Content Include="images\how-it-works.html" />
+    <Content Include="images\icons\003-google-plus.png" />
+    <Content Include="images\icons\004-twitter.png" />
+    <Content Include="images\icons\005-linkedin.png" />
+    <Content Include="images\icons\006-facebook.png" />
+    <Content Include="images\icons\tick-icon.png" />
+    <Content Include="images\lines.html" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\pattern-1.html" />
+    <Content Include="images\ping.png" />
+    <Content Include="images\price-box-bg.html" />
+    <Content Include="images\price.html" />
+    <Content Include="images\profile-bg-big.png" />
+    <Content Include="images\profile-bg.png" />
+    <Content Include="images\slider-2-image.png" />
+    <Content Include="images\slider-image.html" />
+    <Content Include="images\spritemap%402x.html" />
+    <Content Include="images\spritemap.png" />
+    <Content Include="images\style-left.html" />
+    <Content Include="images\style.html" />
+    <Content Include="js\bootstrap-toggle.min.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\color-switcher.js" />
+    <Content Include="js\counterup.js" />
+    <Content Include="js\custom.js" />
+    <Content Include="js\dropzone.js" />
+    <Content Include="js\hello.js" />
+    <Content Include="js\icheck.min.js" />
+    <Content Include="js\jquery-confirm.min.js" />
+    <Content Include="js\jquery-te.min.js" />
+    <Content Include="js\jquery-ui.min.js" />
+    <Content Include="js\jquery.appear.js" />
+    <Content Include="js\jquery.bxslider.js" />
+    <Content Include="js\jquery.caret.min.js" />
+    <Content Include="js\jquery.countTo.js" />
+    <Content Include="js\jquery.fancybox.min.js" />
+    <Content Include="js\jquery.tag-editor.min.js" />
+    <Content Include="js\jquery.tipsy.min.js" />
+    <Content Include="js\jquery.waypoints.js" />
+    <Content Include="js\mega_menu.min.js" />
+    <Content Include="js\new\date-picker-lang\datepicker.en.js" />
+    <Content Include="js\new\datepicker.min.js" />
+    <Content Include="js\new\fileinput.min.js" />
+    <Content Include="js\new\jquery.add-input-area.min.js" />
+    <Content Include="js\owl-carousel.js" />
+    <Content Include="js\parsley.min.js" />
+    <Content Include="js\search.js" />
+    <Content Include="js\theia-sticky-sidebar.js" />
+    <Content Include="js\toastr.min.js" />
+    <Content Include="Login.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -77,10 +194,34 @@
     <Compile Include="Index.Master.designer.cs">
       <DependentUpon>Index.Master</DependentUpon>
     </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Index.Master" />
+    <Content Include="fonts\et-line.eot" />
+    <Content Include="fonts\et-line.ttf" />
+    <Content Include="fonts\et-line.woff" />
+    <Content Include="fonts\et-lined41d.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regulard41d.eot" />
+    <Content Include="fonts\line-awesome0176.eot" />
+    <Content Include="fonts\line-awesomeeb4f.eot" />
+    <Content Include="fonts\line-awesomeeb4f.ttf" />
+    <Content Include="fonts\line-awesomeeb4f.woff" />
+    <Content Include="fonts\line-awesomeeb4f.woff2" />
+    <Content Include="fonts\themify.eot" />
+    <Content Include="fonts\themify.ttf" />
+    <Content Include="fonts\themify.woff" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
